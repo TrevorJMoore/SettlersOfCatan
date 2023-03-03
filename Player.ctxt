@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment10.params=r\ count
+comment10.target=void\ collectResources(SOC.resource,\ int)
+comment11.params=s
+comment11.target=void\ removeResource(SOC.resource)
+comment12.params=s
+comment12.target=int\ numResource(SOC.resource)
+comment2.params=name\ width\ height
+comment2.target=Player(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics2D)
+comment7.params=b
+comment7.target=boolean\ build(SOC.buildType)
+comment8.params=b
+comment8.target=boolean\ canBuild(SOC.buildType)
+comment9.params=r1\ r2
+comment9.target=boolean\ trade(SOC.resource,\ SOC.resource)
+numComments=13

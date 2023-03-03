@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TileBase
+comment1.params=center\ r\ number
+comment1.target=TileBase(java.awt.Point,\ SOC.resource,\ int)
+comment2.params=x\ y\ r\ number
+comment2.target=TileBase(int,\ int,\ SOC.resource,\ int)
+comment3.params=fraction
+comment3.target=double\ findAngle(double)
+comment4.params=angle
+comment4.target=java.awt.Point\ findPoint(double)
+comment5.params=
+comment5.target=void\ updatePoints()
+comment6.params=g\ lineThickness\ filled
+comment6.target=void\ draw(java.awt.Graphics2D,\ int,\ boolean)
+numComments=7

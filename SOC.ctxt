@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SOC
+comment1.params=tiles
+comment1.target=SOC.location[]\ findLocations(int[])
+comment2.params=r\ c
+comment2.target=int\ findTile(int,\ int)
+comment3.params=tile\ loc
+comment3.target=int[]\ neighborhood(int,\ SOC.location)
+numComments=4

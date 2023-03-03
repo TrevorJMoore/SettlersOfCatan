@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Strategg
+comment1.params=b
+comment1.target=SOC.Junction\ placeFirstSettlement(BoardInterface)
+comment2.params=b
+comment2.target=SOC.Junction\ placeFirstRoad(BoardInterface)
+comment3.params=b
+comment3.target=SOC.Junction\ placeSecondSettlement(BoardInterface)
+comment4.params=b
+comment4.target=SOC.Road\ placeSecondRoad(BoardInterface)
+comment5.params=b
+comment5.target=void\ takeTurn(BoardInterface)
+numComments=6
