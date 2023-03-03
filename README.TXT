@@ -1,12 +1,12 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+SettlersOfCatan
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+ - Trevor Moore
+
+Settlers of Catan is a popular board game where you build settlements and roads while gathering resources to trade to other players.
+This project is meant to simulate the popular board game using Java. 
+Note that any Java version (8+) should work without any problems.
+To start, run the Main.java and it will boot the game up.
+
+In this specific simulation there are 4 players that are to be played cooperatively (same computer). 
+Each player starts their turn with the ability to choose their settlement and road.
+From there, the game plays just like regular Settlers.
